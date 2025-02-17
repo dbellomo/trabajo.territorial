@@ -11,7 +11,6 @@ Detalle del recorrido y actividades realizadas en el marco del trabajo de desarr
   1ra comunicación que hace Kika con la conexión a Internet en su hogar, en el marco del proyecto "Las Lagunitas Red Comunitaria y Científica" [https://archive.org/details/kika-1ra-llamada-desde-la-galeria-27-12-24/kika-1ra-llamada+desde+la+galeria+27-12-24.webm](https://archive.org/details/kika-1ra-llamada-desde-la-galeria-27-12-24/kika-1ra-llamada+desde+la+galeria+27-12-24.webm)   
   1ra comunicación que hace Ale con la conexión a Internet en su hogar, en el marco del proyecto "Las Lagunitas Red Comunitaria y Científica" [https://archive.org/details/ale-1ra-llamada-09-02-25](https://archive.org/details/ale-1ra-llamada-09-02-25) 
 
-
 * Refugio Libertad. Es un campo comunitario que trabajan y gestionan familias de las localidades de Los Molinos, Villa San Isidro y José de la Quintana. [https://refugio.libre.org.ar](https://refugio.libre.org.ar) [https://umap.openstreetmap.fr/es/map/refugio-libertad\_639406](https://umap.openstreetmap.fr/es/map/refugio-libertad_639406) 
 
 * Serie de talleres y actividades de mapeo colaborativo, fomentando la conciencia sobre la importancia de los datos abiertos y el mapeo colectivo y colaborativo.  
