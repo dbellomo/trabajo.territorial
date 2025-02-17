@@ -6,6 +6,9 @@ e-mail: [dbellomo@ayv.unrc.edu.ar](mailto:dbellomo@ayv.unrc.edu.ar)
 **Resumen**  
 Detalle del recorrido y actividades realizadas en el marco del trabajo de desarrollo territorial con foco en las comunidades.
 
+**Áreas**  
+Redes comunitarias de Internet rural, mapeo humanitario y colaborativo, soberanía tecnlógica.
+
 * Red comunitaria y científica de Internet rural en el paraje Las Lagunitas, con participación de las 5 facultades y un trabajo territorial que incluye a la coop eléctrica de Alpa Corral (CADEL), Bomberos Voluntarios de Alpa Corral, Secretaría de Ambiente de la municipalidad de Alpa Corral, escuela rural José Brochero del paraje Las Lagunitas con la que se coordinan actividades con otras 5 escuelas rurales de la región, [asociación civil Tierra Unida Activa (ACTUA),](https://tierraunidaactiva.wixsite.com/actua/) [asociación civil AlterMundi](http://altermundi.net) y el [equipo humanitario de OpenStreetMap, Hub de mapeo abierto de Latinoamérica y Caribe](https://www.hotosm.org/hubs/hub-mapeo-abierto-latam-caribe/) (HOT Hub LAC).   
   Mapa Red Las Lagunitas (actualizado el 10.24) [https://www.google.com/maps/d/edit?mid=1VhiDq6I2WE6g4e2f4qupH1\_mw99JhaA\&usp=sharing](https://www.google.com/maps/d/edit?mid=1VhiDq6I2WE6g4e2f4qupH1_mw99JhaA&usp=sharing)   
   **1ra comunicación que hace Kika** con la conexión a Internet en su hogar, en el marco del proyecto "Las Lagunitas Red Comunitaria y Científica" [https://archive.org/details/kika-1ra-llamada-desde-la-galeria-27-12-24/kika-1ra-llamada+desde+la+galeria+27-12-24.webm](https://archive.org/details/kika-1ra-llamada-desde-la-galeria-27-12-24/kika-1ra-llamada+desde+la+galeria+27-12-24.webm)   
