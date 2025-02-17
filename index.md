@@ -7,7 +7,10 @@ e-mail: [dbellomo@ayv.unrc.edu.ar](mailto:dbellomo@ayv.unrc.edu.ar)
 Detalle del recorrido y actividades realizadas en el marco del trabajo de desarrollo territorial con foco en las comunidades.
 
 * Red comunitaria y científica de Internet rural en el paraje Las Lagunitas, con participación de las 5 facultades y un trabajo territorial que incluye a la coop eléctrica de Alpa Corral (CADEL), Bomberos Voluntarios de Alpa Corral, Secretaría de Ambiente de la municipalidad de Alpa Corral, escuela rural José Brochero del paraje Las Lagunitas con la que se coordinan actividades con otras 5 escuelas rurales de la región, [asociación civil Tierra Unida Activa (ACTUA),](https://tierraunidaactiva.wixsite.com/actua/) [asociación civil AlterMundi](http://altermundi.net) y el [equipo humanitario de OpenStreetMap, Hub de mapeo abierto de Latinoamérica y Caribe](https://www.hotosm.org/hubs/hub-mapeo-abierto-latam-caribe/) (HOT Hub LAC).   
-  Mapa Red Las Lagunitas (actualizado el 10.24) [https://www.google.com/maps/d/edit?mid=1VhiDq6I2WE6g4e2f4qupH1\_mw99JhaA\&usp=sharing](https://www.google.com/maps/d/edit?mid=1VhiDq6I2WE6g4e2f4qupH1_mw99JhaA&usp=sharing) 
+  Mapa Red Las Lagunitas (actualizado el 10.24) [https://www.google.com/maps/d/edit?mid=1VhiDq6I2WE6g4e2f4qupH1\_mw99JhaA\&usp=sharing](https://www.google.com/maps/d/edit?mid=1VhiDq6I2WE6g4e2f4qupH1_mw99JhaA&usp=sharing)   
+  1ra comunicación que hace Kika con la conexión a Internet en su hogar, en el marco del proyecto "Las Lagunitas Red Comunitaria y Científica" [https://archive.org/details/kika-1ra-llamada-desde-la-galeria-27-12-24/kika-1ra-llamada+desde+la+galeria+27-12-24.webm](https://archive.org/details/kika-1ra-llamada-desde-la-galeria-27-12-24/kika-1ra-llamada+desde+la+galeria+27-12-24.webm)   
+  1ra comunicación que hace Ale con la conexión a Internet en su hogar, en el marco del proyecto "Las Lagunitas Red Comunitaria y Científica" [https://archive.org/details/ale-1ra-llamada-09-02-25](https://archive.org/details/ale-1ra-llamada-09-02-25) 
+
 
 * Refugio Libertad. Es un campo comunitario que trabajan y gestionan familias de las localidades de Los Molinos, Villa San Isidro y José de la Quintana. [https://refugio.libre.org.ar](https://refugio.libre.org.ar) [https://umap.openstreetmap.fr/es/map/refugio-libertad\_639406](https://umap.openstreetmap.fr/es/map/refugio-libertad_639406) 
 
@@ -117,9 +120,7 @@ Detalle del recorrido y actividades realizadas en el marco del trabajo de desarr
 * UNRC: El acceso a Internet en comunidades rurales y el derecho a la conectividad [https://www.youtube.com/watch?v=nWu9CwsLiok](https://www.youtube.com/watch?v=nWu9CwsLiok)  
 * 1er encuentro de redes comunitarias de Internet y tecnologías para las comunidades rurales [https://www.youtube.com/watch?v=zORgOY3iiCw](https://www.youtube.com/watch?v=zORgOY3iiCw)  
 * UNRC: se realizará el 1° Encuentro de Redes Comunitarias de Internet para las Comunidades Rurales [https://www.youtube.com/watch?v=WxVO-ZoU6J4](https://www.youtube.com/watch?v=WxVO-ZoU6J4)  
-* “Se debe pensar a la internet no sólo como herramienta, sino como un derecho humano” [https://cbahoy.com.ar/se-debe-pensar-a-la-internet-no-solo-como-herramienta-sino-como-un-derecho-humano](https://cbahoy.com.ar/se-debe-pensar-a-la-internet-no-solo-como-herramienta-sino-como-un-derecho-humano)   
-* 1ra comunicación que hace Kika con la conexión a Internet en su hogar, en el marco del proyecto "Las Lagunitas Red Comunitaria y Científica" [https://archive.org/details/kika-1ra-llamada-desde-la-galeria-27-12-24/kika-1ra-llamada+desde+la+galeria+27-12-24.webm](https://archive.org/details/kika-1ra-llamada-desde-la-galeria-27-12-24/kika-1ra-llamada+desde+la+galeria+27-12-24.webm)   
-* 1ra comunicación que hace Ale con la conexión a Internet en su hogar, en el marco del proyecto "Las Lagunitas Red Comunitaria y Científica" [https://archive.org/details/ale-1ra-llamada-09-02-25](https://archive.org/details/ale-1ra-llamada-09-02-25) 
+* “Se debe pensar a la internet no sólo como herramienta, sino como un derecho humano” [https://cbahoy.com.ar/se-debe-pensar-a-la-internet-no-solo-como-herramienta-sino-como-un-derecho-humano](https://cbahoy.com.ar/se-debe-pensar-a-la-internet-no-solo-como-herramienta-sino-como-un-derecho-humano) 
 
 ### **Diplomaturas**
 
